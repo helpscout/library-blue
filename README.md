@@ -1,6 +1,6 @@
 # Beacon Component Library
 This is the master Sketch Library for Beacon Embed (v2). Consider it the single source of truth for all Beacon UI and a super simple way to create quick and accurate Beacon mockups. For examples on **how** to use these components, see [Beacon Example Usage.sketch](https://github.com/helpscout/library-beacon/blob/master/Beacon%20Example%20Usage.sketch) 
-![Cover](https://d1ax1i5f2y3x71.cloudfront.net/items/1S45201N0m1I2G0W1y33/cover.jpg)
+![Cover](https://github.com/helpscout/library-beacon/blob/master/Latest/In%20Browser.jpg?raw=true)
 
 ## Install
 - Install this repo locally
