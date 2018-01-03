@@ -8,7 +8,7 @@ This is the master Sketch Library for Beacon Embed (v2). Consider it the single 
 - Click "Add Library..." and choose `Beacon Pattern Master.sketch` from wherever you installed the repo
 - You're done!
 
-![Preferences](https://d1ax1i5f2y3x71.cloudfront.net/items/392y2N041c142P3e3h1g/prefs.jpeg?X-CloudApp-Visitor-Id=1eebed1b0cc6d11e5a26c5bbfc37f402&v=24f9a7a2)
+![Preferences](https://dha4w82d62smt.cloudfront.net/items/3u2F1h3m403N0Q1r0X2h/Library.jpeg)
 
 ## How to Use
 - Pull the latest version from GitHub (via Kactus if you're using that)
