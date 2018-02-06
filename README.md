@@ -5,6 +5,7 @@ This is the master Sketch Library for Beacon Embed (v2). Consider it the single 
 
 ## Install
 - Install this repo locally
+- Add the fonts from [/Fonts/](https://github.com/helpscout/library-beacon/tree/master/Fonts) to your preferred font manager
 - In Sketch, navigate to **Preferences > Libraries** *(see image below)*
 - Click "Add Library..." and choose `Beacon Pattern Master.sketch` from wherever you installed the repo
 - You're done!
