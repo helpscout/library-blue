@@ -1,12 +1,12 @@
 # Blue UI Library
-[Blue](https://github.com/helpscout/blue) is the React component library behind Beacon v2 and upcoming Help Scout chat tools. It extends the base [HS App component library](https://github.com/helpscout/library-hsapp).
+**[Blue](https://github.com/helpscout/blue) is the UI behind Beacon and new Help Scout chat tools.** It extends the base [HS App component library](https://github.com/helpscout/library-hsapp),and is currently maintained by Buzz and Q.
 
 ## Usage
-This is library can be considered the single source of truth for all Beacon and Chat UI, and a super simple way to create quick and accurate mockups. For examples on **how** to use these components, read [the Wiki](https://github.com/helpscout/library-beacon/wiki) or view the [Example Usage Files](https://github.com/helpscout/library-blue/blob/master/Beacon%20Example%20Usage.sketch) 
+This is library can be considered the single source of truth for all Help Scout Beacon and Chat UI, and a super simple way to create quick and accurate mockups. For examples on **how** to use these components read [the Wiki](https://github.com/helpscout/library-blue/wiki) or view the [Example Usage Files](https://github.com/helpscout/library-blue/blob/master/Beacon%20Example%20Usage.sketch) 
 ![Cover](https://github.com/helpscout/library-blue/blob/master/Latest/In%20Browser.jpg?raw=true)
 
 ## Install
-- Install this repo locally
+- Pull this repo locally
 - Add the fonts from [/Fonts/](https://github.com/helpscout/library-blue/tree/master/Fonts) to your preferred font manager
 - In Sketch, navigate to **Preferences > Libraries** *(see image below)*
 - Click "Add Library..." and choose `Blue Pattern Master.sketch` from wherever you installed the repo
@@ -23,5 +23,5 @@ This is library can be considered the single source of truth for all Beacon and 
 ![Updates](https://d1ax1i5f2y3x71.cloudfront.net/items/1W232c1H0U0J3L0j1w1l/Screen%20Shot%202017-12-15%20at%2010.22.56%20am.png)
 
 ## Requirements
-Sketch v48+
-[HS App Library](https://github.com/helpscout/library-hsapp) isn't required, but recommended
+- Sketch v48+ 
+- [HS App Library](https://github.com/helpscout/library-hsapp) isn't required, but recommended
