@@ -1,20 +1,22 @@
-# Beacon UI Library
-This is the master Sketch Library for Beacon Embed (v2). Consider it the single source of truth for all Beacon UI and a super simple way to create quick and accurate Beacon mockups. For examples on **how** to use these components, read [the Wiki](https://github.com/helpscout/library-beacon/wiki) or view the [Source Files](https://github.com/helpscout/library-beacon/blob/master/Beacon%20Example%20Usage.sketch) 
-![Cover](https://github.com/helpscout/library-beacon/blob/master/Latest/In%20Browser.jpg?raw=true)
-![Cover](https://github.com/helpscout/library-beacon/raw/master/Latest/Mobile%20(Web)%20Overview.jpg?raw=true)
+# Blue UI Library
+[Blue](https://github.com/helpscout/blue) is the React component library behind Beacon v2 and upcoming Help Scout chat tools. It extends the base [HS App component library](https://github.com/helpscout/library-hsapp).
+
+## Usage
+This is library can be considered the single source of truth for all Beacon and Chat UI, and a super simple way to create quick and accurate mockups. For examples on **how** to use these components, read [the Wiki](https://github.com/helpscout/library-beacon/wiki) or view the [Example Usage Files](https://github.com/helpscout/library-blue/blob/master/Beacon%20Example%20Usage.sketch) 
+![Cover](https://github.com/helpscout/library-blue/blob/master/Latest/In%20Browser.jpg?raw=true)
 
 ## Install
 - Install this repo locally
-- Add the fonts from [/Fonts/](https://github.com/helpscout/library-beacon/tree/master/Fonts) to your preferred font manager
+- Add the fonts from [/Fonts/](https://github.com/helpscout/library-blue/tree/master/Fonts) to your preferred font manager
 - In Sketch, navigate to **Preferences > Libraries** *(see image below)*
-- Click "Add Library..." and choose `Beacon Pattern Master.sketch` from wherever you installed the repo
+- Click "Add Library..." and choose `Blue Pattern Master.sketch` from wherever you installed the repo
 - You're done!
 
-![Preferences](https://dha4w82d62smt.cloudfront.net/items/3u2F1h3m403N0Q1r0X2h/Library.jpeg)
+![Preferences](https://dha4w82d62smt.cloudfront.net/items/2F011R470K1E3f2o1e40/sketch-library.png)
 
 ## How to Use
 - Pull the latest version from GitHub (via Kactus if you're using that)
-- Choose a component from **Insert > Beacon Pattern Master**
+- Choose a component from **Insert > Blue Pattern Master**
 - Configure the options using the Overrides panel (right)
 - Always look out for the *Library Update Available*, click this whenever it shows to grab the latest components
 
@@ -22,3 +24,4 @@ This is the master Sketch Library for Beacon Embed (v2). Consider it the single 
 
 ## Requirements
 Sketch v48+
+[HS App Library](https://github.com/helpscout/library-hsapp) isn't required, but recommended
