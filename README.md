@@ -1,5 +1,5 @@
 # Blue UI Library
-**[Blue](https://github.com/helpscout/blue) is the UI behind Beacon and new Help Scout chat tools.** It extends the base [HS App component library](https://github.com/helpscout/library-hsapp),and is currently maintained by Buzz and Q.
+[Blue](https://github.com/helpscout/blue) is the UI behind Beacon and upcoming chat tools. It extends the base [HS App component library](https://github.com/helpscout/library-hsapp) and is currently maintained by Buzz and Q.
 
 ## Usage
 This is library can be considered the single source of truth for all Help Scout Beacon and Chat UI, and a super simple way to create quick and accurate mockups. For examples on **how** to use these components read [the Wiki](https://github.com/helpscout/library-blue/wiki) or view the [Example Usage Files](https://github.com/helpscout/library-blue/blob/master/Beacon%20Example%20Usage.sketch) 
