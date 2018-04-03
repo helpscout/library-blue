@@ -3,7 +3,7 @@
 
 ## Usage
 This is library can be considered the single source of truth for all Help Scout Beacon and Chat UI, and a super simple way to create quick and accurate mockups. For examples on **how** to use these components read [the Wiki](https://github.com/helpscout/library-blue/wiki) or view the [Example Usage Files](https://github.com/helpscout/library-blue/blob/master/Beacon%20Example%20Usage.sketch) 
-![Cover](https://github.com/helpscout/library-blue/blob/master/Latest/In%20Browser.jpg?raw=true)
+![Cover](https://raw.githubusercontent.com/helpscout/library-blue/master/Latest/In%20Browser.jpg?raw=true)
 
 ## Install
 - Pull this repo locally
