@@ -24,4 +24,4 @@ This is library can be considered the core UI and patterns for the newest Help S
 
 ## Requirements
 - Sketch v48+ 
-- [HS App Library](https://github.com/helpscout/library-hsapp) isn't required, but recommended
+- [HS App Library](https://github.com/helpscout/library-hsapp) is required
