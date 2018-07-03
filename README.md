@@ -3,6 +3,8 @@
 
 ## Usage
 This is library can be considered the core UI and patterns for the newest Help Scout features such as Beacon Embed, HS Chat and Timeline, and a super simple way to create quick and accurate mockups. For examples on **how** to use these components read [the Wiki](https://github.com/helpscout/library-blue/wiki) or view the [Example Usage Files](https://github.com/helpscout/library-blue/blob/master/Beacon%20Example%20Usage.sketch) 
+
+![Embed](https://raw.githubusercontent.com/helpscout/library-blue/master/Latest/Beacon/General/Example.jpg?raw=true) 
 ![Cover](https://raw.githubusercontent.com/helpscout/library-blue/master/Latest/Core%20UI.png?raw=true)
 
 ## Install
